@@ -1,5 +1,5 @@
 # docker-cakephp2.0-nvhieu
-
+0.Config đường dẫn webroot
 1. Build docker file -> docker-compose build 
 2. Run image -> docker-compose up 
 3. Import SQL to docker mysql image : 
@@ -27,3 +27,6 @@
           Now import by running:
 
           source your.sql
+          
+          
+       
